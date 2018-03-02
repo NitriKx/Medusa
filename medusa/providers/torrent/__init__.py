@@ -55,6 +55,9 @@ from medusa.providers.torrent.rss import (
     rsstorrent,
     shazbat,
 )
+from medusa.providers.torrent.torznab import (
+    torznab,
+)
 from medusa.providers.torrent.xml import (
     torrentz2,
 )
